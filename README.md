@@ -1,4 +1,4 @@
-![](./.github/banner1.png)
+[![](./.github/banner1.png)](https://github.com/mateusabelli/nlw-setup/raw/nlw/.github/banner1.png)
 
 ## Sobre
 
