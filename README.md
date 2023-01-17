@@ -24,7 +24,7 @@ O aplicativo apresenta um quadro diário que mostra a frequência dos hábitos p
 > Esse projeto está configurado como um monorepo e as dependências são gerenciadas pelo PNPM.
 
 ```bash
-git clone https://github.com/mateusabelli/nlw-setup
+git clone https://github.com/clevessonmendonca/Habits
 
 cd nlw-setup
 
